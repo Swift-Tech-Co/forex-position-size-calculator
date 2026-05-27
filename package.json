@@ -1,0 +1,15 @@
+{
+  "name": "forex-position-size-calculator",
+  "version": "1.0.0",
+  "description": "Calculate forex lot size, pip value, and risk percentage by account equity and stop loss distance.",
+  "main": "javascript/calculator.js",
+  "scripts": { "cli": "node javascript/cli.js" },
+  "keywords": ["forex","trading","position-size","lot-size","pip-value","risk-management","swift-tech-co"],
+  "author": "Swift Tech Co. <swifttechcocanada@gmail.com> (https://swifttechco.com)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/Swift-Tech-Co/forex-position-size-calculator.git" },
+  "bugs": { "url": "https://github.com/Swift-Tech-Co/forex-position-size-calculator/issues" },
+  "homepage": "https://swifttechco.com/services/finance/trading-platform",
+  "engines": { "node": ">=14" },
+  "files": ["javascript/calculator.js", "README.md", "LICENSE"]
+}
