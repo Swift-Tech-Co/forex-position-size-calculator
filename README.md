@@ -1,5 +1,15 @@
 ﻿# Forex Position Size Calculator
+[![npm](https://img.shields.io/npm/v/forex-position-size-calculator.svg)](https://www.npmjs.com/package/forex-position-size-calculator) [![npm downloads](https://img.shields.io/npm/dm/forex-position-size-calculator.svg)](https://www.npmjs.com/package/forex-position-size-calculator)
 
+## Install
+
+```bash
+npm install forex-position-size-calculator
+```
+
+```javascript
+const calc = require('forex-position-size-calculator');
+```
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Micro Utility](https://img.shields.io/badge/Micro-Utility-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
 **Full guide:** [https://swifttechco.com/services/finance/trading-platform](https://swifttechco.com/services/finance/trading-platform)
